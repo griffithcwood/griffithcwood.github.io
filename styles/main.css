@@ -1,0 +1,144 @@
+body {
+    background-color: #1C2833;
+}
+
+p {
+    background-color: #333;
+    font-family: 'Open Sans', sans-serif;
+    color: lightblue;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+p.content{
+    background-color: #1C2833;
+    color: #1C2833;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div {
+    background-color: #1C2833;
+    color: #1C2833;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin 5%;
+}
+
+
+div.content {
+    background-color: #333;
+    display: block;
+    margin-left:20%;
+    margin-right:20%;
+    width: 60%;
+    box-shadow: 5% 5%;
+    border: 5px solid lightblue;
+    border-radius: 5px
+}
+
+
+
+#content {
+    background-image: #37191C;
+    color: whitesmoke;
+    font-family: 'Bungee Inline', cursive;
+}
+
+h1 {
+    color: lightblue;
+    font-family: 'Bungee Inline', cursive;
+}
+
+h2 {
+    color: lightblue;
+    font-family: 'Bungee Inline', cursive;
+
+}
+
+h4 {
+    color: lightblue;
+    font-family: 'Bungee Inline', cursive;
+
+}
+
+
+h5 {
+    color: lightblue;
+    font-family: 'Bungee Inline', cursive;
+
+}
+
+img {
+    border: 5px solid lightblue;
+    border-radius: 5px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+body {
+    margin:0;
+    background-image: url("images/dark-paths/dark-paths.png");
+    background-repeat: repeat;
+}
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+a:link {
+    color: lightblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a: hover{
+    background #ddd;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a:visited {
+    color: lightblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a.download{
+    font-family: 'Open Sans', sans-serif;
+    background: #ddd;
+    color: black;
+    border: 5px solid lightblue;
+    border-radius 5px;
+    
+}
